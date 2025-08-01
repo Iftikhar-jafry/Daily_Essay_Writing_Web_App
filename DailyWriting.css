@@ -1,0 +1,102 @@
+body
+{
+    width: 100%;
+    margin-top: 5px;
+    margin: auto;
+}
+*{
+    width: 880px;
+    margin: auto;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.switchBTN
+{
+    display: block;
+    position: absolute ;
+    right: 20px;
+    width: 100px;
+    margin-right: 5px;
+    border-radius: 15px;
+
+
+}
+#heading{
+    margin: auto;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.text
+{
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+#title
+{
+    color:red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: capitalize;
+    border-top: 2px solid red;
+    border-bottom: 2px solid blue;
+    border-right: 2px solid green;
+    border-left: 2px solid green;
+    margin-top: 5px;
+}
+#textarea
+{
+    border-bottom: 2px solid red;
+    border-top: 2px solid blue;
+    border-right: 2px solid green;
+    border-left: 2px solid green;
+    margin-top: 5px;
+}
+.btn
+{
+    margin-top: 5px;
+    height: 30px;
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#clear
+{
+    background-color: red;
+}
+#save
+{
+    background-color: green;
+}
+#error
+{
+    font-size: 21px;
+    color: red;
+    font-weight: 700;
+}
+input{
+    height: 30px;
+    font-size: 20px;
+}
+.individual
+{
+    border: 2px dashed yellowgreen;
+    border-top: 2px solid red;
+    margin-top: 5px;
+    padding: 5px;
+}
+.datetime
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title
+{
+    color:red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    text-transform: capitalize;
+}
+.para
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
